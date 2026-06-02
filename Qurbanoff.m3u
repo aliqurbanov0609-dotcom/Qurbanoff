@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="🇦🇿 Azerbaijan",AZTV
+https://live.aztv.az/live/playlist.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 Azerbaijan",ITV
+https://live.itv.az/live/playlist.m3u8
