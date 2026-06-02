@@ -1,7 +1,23 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/az.xml"
 
-#EXTINF:-1 group-title="🇦🇿 Azerbaijan",AZTV
-https://live.aztv.az/live/playlist.m3u8
+# ───────── 🇦🇿 AZERBAIJAN ─────────
+#EXTINF:-1 group-title="🇦🇿 Azerbaijan",AzTV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az.m3u8
 
-#EXTINF:-1 group-title="🇦🇿 Azerbaijan",ITV
-https://live.itv.az/live/playlist.m3u8
+#EXTINF:-1 group-title="🇦🇿 Azerbaijan",İTV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az.m3u8
+
+# ───────── 🇷🇺 RUSSIA ─────────
+#EXTINF:-1 group-title="🇷🇺 Russia",Russia 1
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u8
+
+#EXTINF:-1 group-title="🇷🇺 Russia",REN TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u8
+
+# ───────── 🎬 MOVIES ─────────
+#EXTINF:-1 group-title="🎬 Movies",Movie Channel
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/global.m3u8
+
+# ───────── 🎵 MUSIC ─────────
+#EXTINF:-1 group-title="🎵 Music",Music TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/global.m3u8
