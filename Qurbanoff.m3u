@@ -1,23 +1,26 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/az.xml"
 
 # ───────── 🇦🇿 AZERBAIJAN ─────────
-#EXTINF:-1 group-title="🇦🇿 Azerbaijan",AzTV
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az.m3u8
+#EXTINF:-1 tvg-id="aztv" group-title="🇦🇿 Azerbaijan",AZTV
+https://stream.iptv-org.net/streams/az/aztv.m3u8
 
-#EXTINF:-1 group-title="🇦🇿 Azerbaijan",İTV
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az.m3u8
+#EXTINF:-1 tvg-id="itv" group-title="🇦🇿 Azerbaijan",İTV
+https://stream.iptv-org.net/streams/az/itv.m3u8
+
+#EXTINF:-1 tvg-id="cbc" group-title="🇦🇿 Azerbaijan",CBC Sport
+https://stream.iptv-org.net/streams/az/cbc_sport.m3u8
 
 # ───────── 🇷🇺 RUSSIA ─────────
-#EXTINF:-1 group-title="🇷🇺 Russia",Russia 1
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u8
+#EXTINF:-1 tvg-id="russia1" group-title="🇷🇺 Russia",Russia 1
+https://stream.iptv-org.net/streams/ru/russia1.m3u8
 
-#EXTINF:-1 group-title="🇷🇺 Russia",REN TV
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u8
+#EXTINF:-1 tvg-id="ren" group-title="🇷🇺 Russia",REN TV
+https://stream.iptv-org.net/streams/ru/ren.m3u8
 
 # ───────── 🎬 MOVIES ─────────
 #EXTINF:-1 group-title="🎬 Movies",Movie Channel
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/global.m3u8
+https://stream.iptv-org.net/streams/global/movie.m3u8
 
 # ───────── 🎵 MUSIC ─────────
 #EXTINF:-1 group-title="🎵 Music",Music TV
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/global.m3u8
+https://stream.iptv-org.net/streams/global/music.m3u8
